@@ -23,7 +23,8 @@ as86 -l boot.lst boot.s
 ```
 
 编译成功！
- 
- 
+
+
 by Dr. GuoJun LIU
+
 Updated on 2020-03-26
